@@ -6,7 +6,7 @@ import java.io.IOException;
 public class Hello {
 
   // Set SDK_KEY to your LaunchDarkly SDK key.
-  static final String SDK_KEY = "sdk-e08949ee-4f38-49ec-b690-397b2d5cff24";
+  static final String SDK_KEY = "";
 
   // Set FEATURE_FLAG_KEY to the feature flag key you want to evaluate.
   static final String FEATURE_FLAG_KEY = "totta-test-001";
